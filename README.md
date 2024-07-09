@@ -1,5 +1,5 @@
 # Layanan Akupuntur Universitas Gunadarma
-Website that provides acupuncture services so that users can find out what services are provided and users can book a practice schedule.
+Website that provides acupuncture services so that users can find out what services are provided and users can book a practice schedule. You can access this website from this link : https://akupunturug.000webhostapp.com/
 
 ## Features
 
